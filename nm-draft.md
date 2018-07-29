@@ -71,6 +71,7 @@ Den behandlingsansvarlige skal ha mulighet til å motsette seg endringene, og sk
 Følgende underleverandører benyttes:
 
 - **Amazon Web Services EMEA SARL**, Luxembourg (benyttes til drift av datatjenester)
+- **Heroku, Inc.**, USA (benyttes til oppsett og drift av datatjenester)
 - **Cloudflare, Inc.**, USA (benyttes til distribusjon og beskyttelse av tjenestene)
 
 ## 9. Bistand til den behandlingsansvarlige
